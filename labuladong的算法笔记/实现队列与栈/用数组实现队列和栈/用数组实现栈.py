@@ -1,5 +1,5 @@
 from labuladong的算法笔记.实现动态数组.实现环形数组 import CycleArray 
-# 实际上运行不了，只是为了不报错
+# TODO: 实际上运行不了，只是为了不报错，待以后解决
 
 class MyArrayQueue:
     def __init__(self):
